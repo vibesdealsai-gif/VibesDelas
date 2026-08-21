@@ -1,0 +1,6 @@
+{
+  "name": "Vibes Deals",
+  "description": "A premium modern shopping website with subtle 3D depth, clean white surfaces and energetic blue/red branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

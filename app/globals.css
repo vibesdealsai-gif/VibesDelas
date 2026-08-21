@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-plus-jakarta-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-outfit), ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-soft-3d: 0 10px 30px rgba(15, 23, 42, 0.05);
+  --shadow-card: 0 10px 30px rgba(15, 23, 42, 0.05);
+  --shadow-hero-card: 0 20px 50px rgba(15, 23, 42, 0.12);
+  --shadow-button-3d: 0 6px 15px rgba(37, 99, 235, 0.20);
+  --shadow-red-button: 0 6px 15px rgba(239, 68, 68, 0.25);
+  --shadow-icon: 0 4px 10px rgba(37, 99, 235, 0.2);
+  --shadow-hero-btn: 0 10px 20px rgba(37, 99, 235, 0.15);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
