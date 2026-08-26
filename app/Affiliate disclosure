@@ -1,0 +1,329 @@
+app/affiliate-disclosure/page.tsx
+export default function AffiliateDisclosurePage() {
+  return (
+    <main className="min-h-screen bg-white text-slate-800">
+      <div className="container mx-auto max-w-4xl px-4 py-12 md:px-8">
+        <h1 className="mb-4 text-3xl font-bold text-slate-900 md:text-4xl">
+          Affiliate Disclosure
+        </h1>
+
+        <p className="mb-8 text-sm text-slate-500">
+          Last Updated: August 26, 2026
+        </p>
+
+        <div className="space-y-8 text-sm leading-7 text-slate-600 md:text-base">
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Our Affiliate Relationship
+            </h2>
+
+            <p>
+              Welcome to Vibes Deals. We created this website to help visitors
+              discover products, deals, offers, buying guides, comparisons,
+              recommendations, and other useful shopping information. Some of
+              the links published on Vibes Deals are affiliate links. This
+              means that if you click an affiliate link and subsequently make
+              an eligible purchase or complete another qualifying action, we
+              may receive a commission, referral fee, or other form of
+              compensation from the merchant or affiliate program.
+            </p>
+
+            <p className="mt-4">
+              Affiliate compensation does not normally result in any additional
+              cost to you. The price you pay for a product or service is
+              generally the same whether you access the merchant through our
+              affiliate link or visit the merchant directly. The commission
+              helps support the operation, maintenance, development, research,
+              and content creation of Vibes Deals.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              What Are Affiliate Links?
+            </h2>
+
+            <p>
+              An affiliate link is a special tracking link provided by an
+              affiliate network, retailer, merchant, or partner program. When
+              you click one of these links, the merchant may be able to
+              recognize that you arrived through Vibes Deals. If you make a
+              qualifying purchase or complete another qualifying action, the
+              merchant or affiliate network may attribute that transaction to
+              our website.
+            </p>
+
+            <p className="mt-4">
+              Affiliate tracking allows publishers such as Vibes Deals to earn
+              compensation for referring customers to participating merchants.
+              These programs are one of the ways websites can remain free for
+              readers while continuing to publish useful content.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              How Affiliate Compensation Supports Vibes Deals
+            </h2>
+
+            <p>
+              Running a website requires time and resources. Affiliate
+              commissions may help us cover expenses associated with website
+              hosting, domain services, software, research, content creation,
+              maintenance, design, security, and other operational activities.
+              Our goal is to use these resources to improve the information and
+              shopping experience available to our visitors.
+            </p>
+
+            <p className="mt-4">
+              Affiliate revenue does not mean that visitors are required to
+              purchase anything. You are always free to research a product,
+              compare prices, visit another retailer, or decide not to make a
+              purchase.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Our Recommendations
+            </h2>
+
+            <p>
+              We aim to provide useful, relevant, and accurate information when
+              discussing products, services, deals, and offers. However, the
+              presence of an affiliate link does not guarantee that a product
+              is suitable for every person or situation.
+            </p>
+
+            <p className="mt-4">
+              Product prices, availability, specifications, features,
+              discounts, shipping charges, warranties, return policies, and
+              other details may change without notice. The merchant's website
+              should always be considered the final source for current product
+              information, pricing, availability, terms, and purchase
+              conditions.
+            </p>
+
+            <p className="mt-4">
+              We encourage visitors to conduct their own research and consider
+              their individual requirements before purchasing any product or
+              service.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Editorial Independence
+            </h2>
+
+            <p>
+              Affiliate relationships do not automatically determine which
+              products or topics we discuss. We aim to create content that is
+              useful to our audience and to present information in a clear and
+              understandable manner.
+            </p>
+
+            <p className="mt-4">
+              Compensation may be available for some products and unavailable
+              for others. The absence of an affiliate relationship should not
+              be interpreted as a negative opinion about a product, brand, or
+              merchant.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Prices and Deals
+            </h2>
+
+            <p>
+              Vibes Deals may publish information about discounts, promotions,
+              coupons, sales, and other offers. Because merchant pricing and
+              promotions can change frequently, we cannot guarantee that a
+              listed price, discount, coupon, or promotional offer will remain
+              available after publication.
+            </p>
+
+            <p className="mt-4">
+              Before completing a purchase, please verify the final price,
+              applicable taxes, shipping charges, availability, seller
+              information, and applicable terms directly on the merchant's
+              website.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Third-Party Merchants
+            </h2>
+
+            <p>
+              When you click an affiliate or external link on Vibes Deals, you
+              may leave our website and visit a third-party website. We do not
+              control the policies, security practices, product quality,
+              shipping processes, customer service, availability, pricing, or
+              terms of third-party merchants.
+            </p>
+
+            <p className="mt-4">
+              Any transaction you make with a third-party merchant is between
+              you and that merchant. Questions regarding an order, refund,
+              return, warranty, delivery, payment, or product should normally
+              be directed to the merchant from which you made the purchase.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              No Guarantee of Results
+            </h2>
+
+            <p>
+              Information published on Vibes Deals is provided for general
+              informational and shopping purposes. We do not guarantee that
+              purchasing a particular product will produce a particular result.
+              Individual experiences may differ based on circumstances,
+              preferences, usage, compatibility, location, and other factors.
+            </p>
+
+            <p className="mt-4">
+              Product information should not be interpreted as professional,
+              financial, legal, medical, technical, or other specialized advice
+              unless specifically stated otherwise. Readers should seek
+              appropriate professional advice when necessary.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Affiliate Networks and Programs
+            </h2>
+
+            <p>
+              Vibes Deals may participate in one or more affiliate programs,
+              advertising partnerships, referral programs, or affiliate
+              networks. These programs may be operated by retailers,
+              marketplaces, brands, advertising companies, or third-party
+              affiliate networks.
+            </p>
+
+            <p className="mt-4">
+              The specific programs and merchants associated with Vibes Deals
+              may change over time. A product page or article may contain
+              affiliate links even when the merchant relationship changes
+              after the content was originally published.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Cookies and Tracking
+            </h2>
+
+            <p>
+              Affiliate networks and merchants may use cookies, pixels, or
+              similar technologies to track referrals and attribute qualifying
+              transactions. These technologies are generally controlled by the
+              relevant third-party network or merchant.
+            </p>
+
+            <p className="mt-4">
+              Your browser or device may provide controls for managing cookies
+              and similar technologies. Disabling cookies may affect certain
+              website features or the ability of affiliate networks to properly
+              attribute referrals.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Your Choice
+            </h2>
+
+            <p>
+              You are never required to use our affiliate links. If you prefer,
+              you can visit a retailer directly and search for the product
+              yourself. Choosing to use an affiliate link is entirely
+              voluntary.
+            </p>
+
+            <p className="mt-4">
+              If you do use an affiliate link, your purchase may generate a
+              commission for Vibes Deals at no additional cost to you,
+              depending on the rules of the relevant affiliate program.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Accuracy of Information
+            </h2>
+
+            <p>
+              We make reasonable efforts to provide useful and accurate
+              information, but we cannot guarantee that every piece of
+              information on the website is complete, current, or error-free.
+              Product descriptions, technical specifications, prices,
+              availability, promotions, and other information may originate
+              from third-party sources and may change over time.
+            </p>
+
+            <p className="mt-4">
+              If you notice an inaccurate or outdated piece of information,
+              please contact us so that we can review it and make appropriate
+              updates where necessary.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Changes to This Disclosure
+            </h2>
+
+            <p>
+              We may update this Affiliate Disclosure from time to time to
+              reflect changes to our affiliate relationships, website
+              practices, applicable requirements, or business operations. Any
+              updated version will be published on this page with a revised
+              “Last Updated” date.
+            </p>
+
+            <p className="mt-4">
+              We encourage visitors to review this page periodically if they
+              want to understand how affiliate relationships may apply to
+              content and links published on Vibes Deals.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Contact
+            </h2>
+
+            <p>
+              If you have questions about this Affiliate Disclosure or our
+              affiliate relationships, you can contact Vibes Deals through the
+              contact information provided on our website.
+            </p>
+          </section>
+
+          <section className="rounded-lg border border-slate-200 bg-slate-50 p-5">
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Summary
+            </h2>
+
+            <p>
+              In simple terms, some links on Vibes Deals may be affiliate links.
+              If you click one of those links and make a qualifying purchase,
+              we may receive compensation from the merchant or affiliate
+              network. This compensation generally does not increase the price
+              you pay. Affiliate revenue helps us operate and improve Vibes
+              Deals while continuing to provide useful shopping content to our
+              visitors.
+            </p>
+          </section>
+        </div>
+      </div>
+    </main>
+  );
+}
