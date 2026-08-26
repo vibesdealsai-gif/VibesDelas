@@ -1,0 +1,148 @@
+app/page.tsx
+export default function PrivacyPolicyPage() {
+  return (
+    <main className="min-h-screen bg-white text-slate-800">
+      <div className="container mx-auto max-w-4xl px-4 py-12 md:px-8">
+
+        <h1 className="mb-4 text-3xl font-bold text-slate-900 md:text-4xl">
+          Privacy Policy
+        </h1>
+
+        <p className="mb-8 text-sm text-slate-500">
+          Last Updated: August 26, 2026
+        </p>
+
+        <div className="space-y-8 text-sm leading-7 text-slate-600 md:text-base">
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Introduction
+            </h2>
+            <p>
+              Welcome to Vibes Deals. We respect your privacy and are committed
+              to protecting your personal information. This Privacy Policy
+              explains how information may be collected, used, and protected
+              when you visit and use our website.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Information We Collect
+            </h2>
+            <p>
+              We may collect information that you voluntarily provide to us,
+              such as your name and email address when you contact us or
+              subscribe to communications.
+            </p>
+            <p className="mt-4">
+              We may also automatically receive certain technical information,
+              such as browser type, device information, approximate location,
+              IP address, pages visited, and general usage information.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              How We Use Information
+            </h2>
+            <p>
+              Information may be used to operate, maintain, improve, and
+              personalize our website, respond to inquiries, understand how
+              visitors use our website, and improve our content and services.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Cookies
+            </h2>
+            <p>
+              Vibes Deals and third-party services may use cookies and similar
+              technologies to remember preferences, understand website usage,
+              measure traffic, and support certain website features.
+            </p>
+            <p className="mt-4">
+              You can manage or disable cookies through your browser settings.
+              Some website features may not work properly if cookies are
+              disabled.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Affiliate Links
+            </h2>
+            <p>
+              Some links on Vibes Deals may be affiliate links. If you click an
+              affiliate link and make a qualifying purchase, we may receive a
+              commission from the merchant or affiliate network at no
+              additional cost to you.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Third-Party Websites
+            </h2>
+            <p>
+              Our website may contain links to third-party websites. We are not
+              responsible for the privacy practices, security, content, or
+              policies of websites operated by third parties. We recommend
+              reviewing the privacy policy of any third-party website you visit.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Data Security
+            </h2>
+            <p>
+              We take reasonable measures to protect information associated
+              with our website. However, no method of transmission or storage
+              over the internet can be guaranteed to be completely secure.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Children's Privacy
+            </h2>
+            <p>
+              Our website is not intended to knowingly collect personal
+              information from children. If you believe that a child has
+              provided personal information through our website, please contact
+              us so that the information can be reviewed and removed where
+              appropriate.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Changes to This Privacy Policy
+            </h2>
+            <p>
+              We may update this Privacy Policy from time to time. Any changes
+              will be published on this page with an updated “Last Updated”
+              date.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xl font-bold text-slate-900">
+              Contact Us
+            </h2>
+            <p>
+              If you have questions about this Privacy Policy, please contact
+              us using the contact information provided on the Vibes Deals
+              website.
+            </p>
+          </section>
+
+        </div>
+      </div>
+    </main>
+  
+  );
+}
+app/page.tsx
